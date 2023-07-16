@@ -15,12 +15,12 @@ To get started, make sure you have the following prerequisites installed:
 Clone the project repository from GitHub:
 
 ```bash
-git clone https://github.com/salvatore356/PortalsR3F
+git https://github.com/salvatore356/SimpleShader.git
 ```
 Navigate to the project directory:
 
 ```bash
-cd your-project
+cd SimpleShader
 ```
 Install the necessary dependencies:
 
