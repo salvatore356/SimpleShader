@@ -33,7 +33,12 @@ To start the development server and view the app in your browser, run the follow
 ```bash
 npm start
 ```
-This will open your browser and load the app at http://localhost:3000. You will be able to interact with the 3D scenes and navigate between different worlds using the portals.
+This will open your browser and load the app at http://localhost:3000. You will be able to interact with the 3D scene.
+
+
+https://github.com/salvatore356/SimpleShader/assets/5830312/8ce403df-36c1-4604-a56e-12f6c73b2552
+
+
 
 ## Acknowledgements
 
